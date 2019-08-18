@@ -2,7 +2,7 @@ List of all events where I participated as a speaker
 
 2017 year
 
-- [Configuring Android Project](https://speakerdeck.com/dmytrodanylyk/configuring-android-project) - Google Developers Group Lviv *(Ukraine)*
+- [Hust University of Science and Technology]
 - [Configuring Android Project](https://speakerdeck.com/dmytrodanylyk/configuring-android-project) - Google Developers Group Cherkassy *(Ukraine)*
 
 2016 year
